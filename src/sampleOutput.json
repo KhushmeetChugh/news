@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Bryan Pietsch",
+            "title": "Ukraine live briefing: Russia says it foiled attack on Crimean Bridge; Ukraine reports slew of deadly strikes - The Washington Post",
+            "description": "Children were among civilians killed in a barrage of attacks on Saturday, Ukraines military said, without providing specifics.",
+            "url": "https://www.washingtonpost.com/world/2023/08/13/russia-ukraine-war-news/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4U4OJCWHNFB2VHHMHNYZJS6GI_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-08-13T08:17:47Z",
+            "content": "The Russian Defense Ministry saidSaturdaythat its air defenses shot down at least two missiles fired at the Crimean Bridge and foiled a drone attack on the Crimean Peninsula. The bridge serves as the… [+3688 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Molly Hennessy-Fiske, Emmanuel Felton, Rachel Hatzipanagos",
+            "title": "Montgomery brawl response steeped with the Alabama city's long history - The Washington Post",
+            "description": "The brawl that occurred on the Alabama River frontage last week has made the rounds on social media and tested racial tensions in the historic town.",
+            "url": "https://www.washingtonpost.com/nation/2023/08/12/montgomery-brawl-alabama-history-response/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NUAULHITMOIHZER2TZWQYPXGO4_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-08-12T15:34:10Z",
+            "content": "Comment on this story\r\nComment\r\nMONTGOMERY, Ala. When he noticed their path was blocked, Steven Clayton Thomason, an entertainer aboard the Harriott II ferry, began a singalong among the more than 20… [+9879 chars]"
+        }
+    ]
+}
