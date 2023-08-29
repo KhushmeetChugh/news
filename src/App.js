@@ -28,6 +28,7 @@ const App=()=> {
         // onLoaderFinished={() => setProgress(0)}
       />   
       <Routes>
+        <Route path="/" element={<News key="general"setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="general"/>}/>
           <Route path="/business" element={<News key="business"setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="business"/>}/>
           <Route path="/entertainment" element={<News key="entertainment" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="entertainment"/>}/>
           <Route path="/general" element={<News key="general" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in"           category="general"/>}/>
